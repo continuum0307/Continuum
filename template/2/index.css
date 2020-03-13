@@ -307,13 +307,13 @@ button:focus {
     #photos {
     columns:1;
     column-gap:0%;
-	text-align:center;
+	/* text-align:center; */
     
 }
     }
     #photos img {
         margin:2% 0px;
-		text-align:center;
+		/* text-align:center; */
     }
     #photos img:hover {
         transform: scale(1);

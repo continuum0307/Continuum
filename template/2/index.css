@@ -313,7 +313,10 @@ button:focus {
     }
     #photos img {
         margin:2% 0px;
+<<<<<<< HEAD
 		/* text-align:center; */
+=======
+>>>>>>> parent of 887d002... trytry
     }
     #photos img:hover {
         transform: scale(1);
@@ -395,6 +398,12 @@ button:focus {
 }
 .center {
   display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#trySuperCenter{
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;

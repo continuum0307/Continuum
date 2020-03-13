@@ -304,18 +304,18 @@ button:focus {
 }
 
 @media (max-width: 1000px){
-    #photos3 {
+    #photos {
     columns:1;
     column-gap:0%;
 	text-align:center;
     
 }
     }
-    #photos3 img {
+    #photos img {
         margin:2% 0px;
 		text-align:center;
     }
-    #photos3 img:hover {
+    #photos img:hover {
         transform: scale(1);
         cursor: pointer;
     }
